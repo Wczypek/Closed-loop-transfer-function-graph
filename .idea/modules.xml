@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MMM.iml" filepath="$PROJECT_DIR$/.idea/MMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../transfer function graph/.idea/transfer function graph.iml" filepath="$PROJECT_DIR$/../transfer function graph/.idea/transfer function graph.iml" />
     </modules>
   </component>
 </project>
