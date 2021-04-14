@@ -13,7 +13,7 @@ Scientific project for mathematical modeling course. We presented how looks outp
 
 ## Screenshots
 ![Example screenshot 1](./source/example1.png)
-![Example screenshot 2](./source/example2.png)
+![Example screenshot 2](./source/example 2.png)
 
 ## Technologies
 * Python 3.8
