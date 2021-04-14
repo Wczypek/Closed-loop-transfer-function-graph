@@ -76,6 +76,13 @@ class Window(QtWidgets.QMainWindow, Ui_MainWindow):
         if self.u_visible:
             self.ui.u_y_plot.canvas.axes.plot(self.t, self.u)
         self.ui.u_y_plot.canvas.draw()
+        self.stability()
+
+    def stability(self):
+        if self.A > 0 and self.B > 0 and self.K > 0 and self.M > 0:
+            self.ui.lab_stab.setText("stable")
+        else:
+            self.ui.lab_stab.setText("not stable")
 
 
 def main():

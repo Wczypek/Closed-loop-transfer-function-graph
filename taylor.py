@@ -21,7 +21,7 @@ def integration(amp, a, b, k, m, u):
 
 
 def rectangular_func(amp, t):
-    u = (amp * np.sign(np.sin(2 * np.pi * t / (t1 / L))) + 1) / 2
+    u = amp * np.sign(np.sin(2 * np.pi * t / (t1 / L)))
     return u
 
 
@@ -31,7 +31,7 @@ def sin_func(amp, t):
 
 
 def step_func(amp, t):
-    u = [amp * x for x in range(len(t))]
+    u = [amp for x in range(len(t))]
     return u
 
 
