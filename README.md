@@ -7,13 +7,13 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-
+* [Contributors](#contributors)
 ## General info
 Scientific project for mathematical modeling course. We presented how looks output of closed-loop transfer function. A model may help to explain how system works and to make predictions about behavior for real engineering situations.
 
 ## Screenshots
 ![Example screenshot 1](./source/example1.png)
-![Example screenshot 2](./source/example 2.png)
+![Example screenshot 2](./source/example2.png)
 
 ## Technologies
 * Python 3.8
@@ -27,3 +27,6 @@ Scientific project for mathematical modeling course. We presented how looks outp
 
 ## Status
 Project is finished.
+
+## Contributors
+* https://github.com/MD-00
